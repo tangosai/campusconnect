@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "img": "../img/gitam_campus_connect_1.jpg",
+    "alt": "gitam_campus_connect"
+  },
+  {
+    "id": 2,
+    "img": "../img/gitam_campus_connect_2.jpg",
+    "alt": "gitam_campus_connect"
+  },
+  {
+    "id": 3,
+    "img": "../img/gitam_campus_connect_3.jpg",
+    "alt": "gitam_campus_connect"
+  },
+  {
+    "id": 4,
+    "img": "../img/gitam_campus_connect_4.jpg",
+    "alt": "gitam_campus_connect"
+  },
+  {
+    "id": 5,
+    "img": "../img/gitam_campus_connect_5.jpg",
+    "alt": "gitam_campus_connect"
+  }
+]
